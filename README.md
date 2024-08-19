@@ -1,11 +1,13 @@
 <h1>Welcome To My Profile:</h1>
 
-* I'm Adir Shmuel A Software Developer, also Martial arts instructor.
+* I'm Adir Shmuel A Full-Stack Developer, also Martial arts instructor.
+specialized with web development process. 
+in general i'll always try to leverage my technical and theoretical skills by developing high-quality robust
+software solutions.
+with strong problem-solving attitude, troubleshooting abilities and tons of self discipline and motivation-
+i am commited to my occupation, looking always to be the better version from yesterday!
 
-* addicted to sports (especially martial arts), playing guitar, 
-  and in my free time- love to play video games.
 
-* I like experimenting with tech, and learn new skiils and knowledge both on practical side and overall understanding in order to solve any given problem.
 
    
 
